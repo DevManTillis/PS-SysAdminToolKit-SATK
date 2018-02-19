@@ -23,4 +23,4 @@ This program is useful for updating machines that are on a segrated network of w
 New-IsoFile -source .\sourcedirectory -path .\destinationdirectory.iso
 
 ## List_Installed_Programs
-This description of this program is essentially in the name. Use this in order to efficiently get a list of installed programs. This is vary useful when coupled with winrm in an enterprise environemnt.
+This description of this program is essentially in the name. Use this in order to efficiently get a list of installed programs. This is very useful when coupled with winrm in an enterprise environemnt.
